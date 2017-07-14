@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fe08469-9cf0-4204-87ec-6665832ac47a" name="Default" comment="2017-7-14 16:14:32 img">
+    <list default="true" id="6fe08469-9cf0-4204-87ec-6665832ac47a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mine/webSpider/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../mine/webSpider/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mine/webSpider/src/com/test/getUrl.java" afterPath="$PROJECT_DIR$/../../mine/webSpider/src/com/test/getUrl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mine/webSpider/src/com/test/testImg.java" afterPath="$PROJECT_DIR$/../../mine/webSpider/src/com/test/testImg.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../../mine/webSpider/out/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="testImg.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../mine/webSpider/src/com/test/testImg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="23" />
+            <state relative-caret-position="125">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +71,8 @@
         <option value="$PROJECT_DIR$/../../mine/webSpider/src/com/test/Filter.java" />
         <option value="$PROJECT_DIR$/../../mine/webSpider/src/com/test/LinkQueue.java" />
         <option value="$PROJECT_DIR$/../../mine/webSpider/src/com/test/webSpider.java" />
-        <option value="$PROJECT_DIR$/../../mine/webSpider/src/com/test/testImg.java" />
         <option value="$PROJECT_DIR$/../../mine/webSpider/src/com/test/getUrl.java" />
+        <option value="$PROJECT_DIR$/../../mine/webSpider/src/com/test/testImg.java" />
       </list>
     </option>
   </component>
@@ -581,7 +580,7 @@
       <option name="presentableId" value="Default" />
       <updated>1499998177997</updated>
       <workItem from="1499998179349" duration="14274000" />
-      <workItem from="1500018652424" duration="1465000" />
+      <workItem from="1500018652424" duration="2116000" />
     </task>
     <task id="LOCAL-00001" summary="2017-7-14 15:55:37 commit">
       <created>1500019146573</created>
@@ -590,11 +589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500019146573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2017-7-14 16:14:32 mkdir img">
+      <created>1500020128876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500020128876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15739000" />
+    <option name="totallyTimeSpent" value="16390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,6 +613,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -618,12 +625,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55430186" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4090268" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26234132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16301547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16301547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -704,7 +711,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2017-7-14 15:55:37 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2017-7-14 15:55:37 commit" />
+    <MESSAGE value="2017-7-14 16:14:32 mkdir img" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017-7-14 16:14:32 mkdir img" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -783,8 +791,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../mine/webSpider/src/com/test/testImg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="125">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
