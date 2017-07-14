@@ -25,7 +25,7 @@ public class getUrl {
         Pattern p = Pattern.compile(regex);
         List<String> listUrl = new ArrayList<String>();
         int i=1;
-        while (i<10){
+        while (i<2){
             try {
                 url=new URL("http://blog.csdn.net/"+"?&page="+i);
                 System.out.println(url);

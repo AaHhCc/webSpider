@@ -24,7 +24,12 @@ public class testImg {
             is.close();
             outStream.close();
             //把图片数据填入文件中
-            File file = new File("e://img/"+name+".jpg");
+            String path = "e://img/";
+            File f = new File(path);
+            if(!f.isDirectory()){
+                f.mkdir();
+            }
+            File file = new File(path+name+".jpg");
 
             FileOutputStream op = new FileOutputStream(file);
 
